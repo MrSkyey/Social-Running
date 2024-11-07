@@ -89,6 +89,7 @@ main {
     /* Pushing the Footer to the bottom */
     display: flex;
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 footer {
