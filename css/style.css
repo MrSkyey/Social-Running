@@ -85,11 +85,18 @@ nav {
 }
 
 main {
-    background-color: lightblue;
+    
     /* Pushing the Footer to the bottom */
-    display: flex;
+    
     flex: 1 0 auto;
     margin-top: 47px;
+}
+
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(assets/images/hero-image.webp) no-repeat center center/cover;
 }
 /* Footer */
 #social-networks {
